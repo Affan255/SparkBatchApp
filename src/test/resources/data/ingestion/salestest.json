@@ -1,0 +1,66 @@
+[
+  {
+    "Seller_Id": "Joe",
+    "Sales": [
+      {
+        "Date": "11/11/2020",
+        "Items": [
+          {
+            "Product": "Beer",
+            "Quantity": 18
+          },
+          {
+            "Product": "Food",
+            "Quantity": 12
+          },
+          {
+            "Product": "Food",
+            "Quantity": 19
+          },
+          {
+            "Product": "Car",
+            "Quantity": 20
+          }
+        ]
+      },
+      {
+        "Date": "12/11/2020",
+        "Items": [
+          {
+            "Product": "Beer",
+            "Quantity": 19
+          },
+          {
+            "Product": "Beer",
+            "Quantity": 16
+          },
+          {
+            "Product": "Food",
+            "Quantity": 17
+          },
+          {
+            "Product": "Food",
+            "Quantity": 17
+          },
+          {
+            "Product": "Beer",
+            "Quantity": 14
+          }
+        ]
+      },
+      {
+        "Date": "13/11/2020",
+        "Items": [
+          {
+            "Product": "Beer",
+            "Quantity": 14
+          },
+          {
+            "Product": "Food",
+            "Quantity": 12
+          }
+        ]
+      }
+    ]
+  }
+]
